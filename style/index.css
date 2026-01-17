@@ -158,3 +158,10 @@ footer {
     color: white;
     padding:  40px 0;
 }
+
+/* responsive */
+@media screen and (max-width:576px) 
+{
+    
+}
+    
