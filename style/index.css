@@ -35,7 +35,7 @@ nav .text {
     margin: 0 auto;
     max-width: 1155px;
     display: flex;
-    margin: bottom 69px;
+    margin-bottom :69px;
     ;
 
 }
@@ -49,7 +49,7 @@ nav .text {
 
 .banner-titel h2 {
     font-size: 52px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 
 .banner-titel p {
@@ -81,7 +81,8 @@ nav .text {
     gap: 60px;
     align-items: center;
     margin-top: 100px;
-    box-shadow: 0px 4px 4px 0px #0000003d;
+    box-shadow: 0px 4px 4px 0px #00000036;
+   
 
 
 }
@@ -109,9 +110,9 @@ nav .text {
 
 .card {
     padding: 15px 15px;
-    box-shadow: 0 0 40 0 #000000;
+    box-shadow: 0 4px 4px 0 #00000062;
     border-radius: 5px;
-    border: 1px solid red;
+    
     background-color: #FFFFFF;
     width: 329px;
 }
@@ -121,7 +122,7 @@ nav .text {
 }
 
 .Product-name {
-    font-size: 28;
+    font-size: 28px;
     font-weight: 400;
     color: #18191F;
 }
@@ -150,9 +151,10 @@ nav .text {
 }
 
 footer {
-    width: 1440px;
+    width: 100%;
     margin: 0 auto;
-    background-color: darkblue;
+    background-color: navy;
     text-align: center;
     color: white;
+    padding:  40px 0;
 }
