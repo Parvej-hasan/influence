@@ -141,17 +141,18 @@ nav .text {
     font-weight: 300;
     font-size: 16px;
 }
-.last-banner
-{
+
+.last-banner {
     width: 1110px;
     display: flex;
     margin: 0 auto;
     gap: 96px;
 }
-footer
-{
+
+footer {
     width: 1440px;
-   background-color:darkblue ;
+    margin: 0 auto;
+    background-color: darkblue;
     text-align: center;
-color: white;
+    color: white;
 }
